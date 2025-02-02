@@ -1,0 +1,7 @@
+.DS_Store
+
+#Data
+deepfake-detection-challenge/*/**
+train_part0/videos/*
+toy_data/int_data.npy
+toy_data/train_data0.npy
